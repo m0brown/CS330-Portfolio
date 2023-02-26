@@ -1,3 +1,5 @@
+*The entire project zip file was too large for GitHub so I only uploaded the main.cpp and camera.h files.
+
 # Module 8 Journal
 
 ### How do I approach designing software?
